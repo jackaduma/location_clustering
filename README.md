@@ -3,4 +3,4 @@
 
 https://blog.csdn.net/jackaduma/article/details/52734731
 
-![静态代码检查首页](https://github.com/jackaduma/location_clustering/blob/master/alipay.jpg)
+![静态代码检查首页](https://github.com/jackaduma/location_clustering/blob/master/a.jpg)
